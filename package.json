@@ -1,0 +1,25 @@
+{
+    "name": "TeamProfileGenerator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib"
+    },
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/MicahPellum/TeamProfileGenerator.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/MicahPellum/TeamProfileGenerator/issues"
+    },
+    "homepage": "https://github.com/MicahPellum/TeamProfileGenerator#readme",
+    "dependencies": {
+      "inquirer": "^7.3.3"
+    }
+  }
