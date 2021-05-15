@@ -8,7 +8,7 @@ This application generates a webpage to showcase your team members.
 To install this application, you will need to clone the repository here https://github.com/MicahPellum/TeamProfileGenerator/
 
 # Usage
-To use this application, go to the directly where you clone the repository. Once you are there, run npm i to install dependencies, then you need to run node index. The application will run and prompt you for information. 
+To use this application, go to the command line. Once you are there, run npm i to install dependencies, then you need to run node index. The application will run and prompt you for information. 
 
 Once you are done filling out the prompts, the application will then populate an HTML file in the dist folder directory. 
 
