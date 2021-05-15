@@ -12,7 +12,7 @@ To use this application, go to the command line. Once you are there, run npm i t
 
 Once you are done filling out the prompts, the application will then populate an HTML file in the dist folder directory. 
 
-Here is a demo on how the application works -
+Here is my demo showing how the application works -https://drive.google.com/file/d/1yoC525BCeC-yCuTM3YWGYEweks1pwfrL/view
 
 # Tests
 To test this application, run npm test in the the command line. This will then verify that all empoloyee types are being created. 
